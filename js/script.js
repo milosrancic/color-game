@@ -1,4 +1,12 @@
 document.addEventListener("DOMContentLoaded", function() {
+  alert(`How to play?
+  
+  A color's RGB value indicates its red, green, and blue intensity. Each intensity value is on a scale of 0 to 255. 
+  There are three modes: Easy (3 squares), Hard (6 squares) and Insane (9 squares).
+  Your task is to guess the correct square based on those RGB values.
+  
+  Good luck :)
+  `);
 
   let numSquares = 6;
   let colors = [];
@@ -134,6 +142,5 @@ document.addEventListener("DOMContentLoaded", function() {
     setupModeButtons();
     setupSquares();
     reset();
-	}
-	
+  }
 });
