@@ -2,7 +2,7 @@
 Vanilla JavaScript color game
 
 ## View project
-https://milosrancic.github.io/color-game/
+https://milosrancic.github.io/js-color-game/
 
 
 ### Technologies 
