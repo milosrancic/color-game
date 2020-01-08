@@ -4,6 +4,9 @@ Vanilla JavaScript color game
 ## View project
 https://milosrancic.github.io/js-color-game/
 
+### Screenshot 
+
+[![Color-Game.png](https://i.postimg.cc/jdZNM3Vb/Color-Game.png)](https://postimg.cc/GHTH2Qh7)
 
 ### Technologies 
 HTML5, CSS3, JavaScript
